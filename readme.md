@@ -2,7 +2,7 @@
 http://www.imooc.com/learn/445
 
 # 成果 #
-请见 ok 目录
+请见 ok 目录下，index.html
 
 # 笔记重记 #
 ## [1-1 课程简介](1-1.md)
